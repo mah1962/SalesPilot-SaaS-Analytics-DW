@@ -1,0 +1,59 @@
+2026-03-25 19:34:40,663 - INFO - \U0001f4c1 Created new directory: reports
+2026-03-25 19:34:40,790 - INFO - \U0001f4dd Recorded step: Manual Test Run
+2026-03-25 19:34:40,794 - INFO - \u2705 Report saved successfully: reports\etl_report_20260325_193440.csv
+2026-03-25 19:34:40,796 - INFO - 
+==================================================
+           Step  Status  Duration (sec)  Rows Processed                                Remarks
+Manual Test Run Success            0.25               4 Testing directory and timestamp naming
+==================================================
+2026-03-25 22:33:51,231 - INFO - \U0001f4dd Step Logged: Final_Table_Check for FactSubscriptions
+2026-03-25 22:33:51,234 - INFO - \U0001f4dd Step Logged: Final_Table_Check for DimDate
+2026-03-25 22:33:51,236 - INFO - \U0001f4dd Step Logged: Final_Table_Check for DimPlan
+2026-03-25 22:33:51,240 - INFO - \U0001f4dd Step Logged: Final_Table_Check for DimCompany
+2026-03-25 22:33:51,244 - INFO - \u2705 Detailed report saved: reports\detailed_etl_report_20260325_223351.csv
+2026-03-25 22:33:51,247 - INFO - 
+Summary:
+     Execution_Time         Step_Name Target_Table  Status  Rows_Processed  Duration_Sec                     Remarks
+2026-03-25 22:33:51 Final_Table_Check   DimCompany Success             250        0.0031 Data verified in schema dbo
+2026-03-25 23:24:38,683 - INFO - \U0001f4dd Step Logged: Final_Table_Check for FactSubscriptions
+2026-03-25 23:24:38,685 - INFO - \U0001f4dd Step Logged: Final_Table_Check for DimDate
+2026-03-25 23:24:38,687 - INFO - \U0001f4dd Step Logged: Final_Table_Check for DimPlan
+2026-03-25 23:24:38,689 - INFO - \U0001f4dd Step Logged: Final_Table_Check for DimCompany
+2026-03-25 23:24:38,692 - INFO - \u2705 Detailed report saved: reports\detailed_etl_report_20260325_232438.csv
+2026-03-25 23:24:38,697 - INFO - 
+Summary:
+     Execution_Time         Step_Name Target_Table  Status  Rows_Processed  Duration_Sec                     Remarks
+2026-03-25 23:24:38 Final_Table_Check   DimCompany Success             250        0.0016 Data verified in schema dbo
+2026-03-25 23:25:39,327 - INFO - \U0001f4dd Step Logged: Final_Table_Check for FactSubscriptions
+2026-03-25 23:25:39,329 - INFO - \U0001f4dd Step Logged: Final_Table_Check for DimDate
+2026-03-25 23:25:39,330 - INFO - \U0001f4dd Step Logged: Final_Table_Check for DimPlan
+2026-03-25 23:25:39,332 - INFO - \U0001f4dd Step Logged: Final_Table_Check for DimCompany
+2026-03-25 23:25:39,337 - INFO - \u2705 Detailed report saved: reports\detailed_etl_report_20260325_232539.csv
+2026-03-25 23:25:39,339 - INFO - 
+Summary:
+     Execution_Time         Step_Name Target_Table  Status  Rows_Processed  Duration_Sec                     Remarks
+2026-03-25 23:25:39 Final_Table_Check   DimCompany Success             250        0.0019 Data verified in schema dbo
+2026-03-25 23:36:41,799 - INFO - \U0001f3ac Starting Bulk Load Process
+2026-03-25 23:36:41,847 - INFO - \U0001f4dd Step Logged: Data_Load for FactSubscriptions
+2026-03-25 23:36:41,847 - ERROR - \u274c Failed to load FactSubscriptions: Not an executable object: 'TRUNCATE TABLE [dbo].[FactSubscriptions]'
+2026-03-25 23:36:41,850 - INFO - \U0001f4dd Step Logged: Data_Load for DimDate
+2026-03-25 23:36:41,850 - ERROR - \u274c Failed to load DimDate: Not an executable object: 'TRUNCATE TABLE [dbo].[DimDate]'
+2026-03-25 23:36:41,851 - INFO - \U0001f4dd Step Logged: Data_Load for DimPlan
+2026-03-25 23:36:41,851 - ERROR - \u274c Failed to load DimPlan: Not an executable object: 'TRUNCATE TABLE [dbo].[DimPlan]'
+2026-03-25 23:36:41,853 - INFO - \U0001f4dd Step Logged: Data_Load for DimCompany
+2026-03-25 23:36:41,853 - ERROR - \u274c Failed to load DimCompany: Not an executable object: 'TRUNCATE TABLE [dbo].[DimCompany]'
+2026-03-25 23:36:41,859 - INFO - \u2705 Detailed report saved: reports\detailed_etl_report_20260325_233641.csv
+2026-03-25 23:36:41,862 - INFO - 
+Summary:
+     Execution_Time Step_Name Target_Table Status  Rows_Processed  Duration_Sec                                                       Remarks
+2026-03-25 23:36:41 Data_Load   DimCompany Failed               0             0 Not an executable object: 'TRUNCATE TABLE [dbo].[DimCompany]'
+2026-03-25 23:36:41,862 - INFO - \U0001f3c1 ETL Process finished. Detailed report saved.
+2026-03-26 00:13:53,405 - INFO - \U0001f4dd Step Logged: Final_Table_Check for DimCompany
+2026-03-26 00:13:53,406 - INFO - \U0001f4dd Step Logged: Final_Table_Check for DimDate
+2026-03-26 00:13:53,408 - INFO - \U0001f4dd Step Logged: Final_Table_Check for DimPlan
+2026-03-26 00:13:53,410 - INFO - \U0001f4dd Step Logged: Final_Table_Check for FactSubscriptions
+2026-03-26 00:13:53,413 - INFO - \u2705 Detailed report saved: reports\detailed_etl_report_20260326_001353.csv
+2026-03-26 00:13:53,416 - INFO - 
+Summary:
+     Execution_Time         Step_Name      Target_Table  Status  Rows_Processed  Duration_Sec                     Remarks
+2026-03-26 00:13:53 Final_Table_Check FactSubscriptions Success            5590        0.0018 Data verified in schema dbo

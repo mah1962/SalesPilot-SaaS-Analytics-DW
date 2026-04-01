@@ -1,0 +1,251 @@
+CompanyID,CompanyName,Industry,Country,CompanySize,AcquisitionChannel,SignupDateKey
+1,Company_1,FinTech,UK,SMB,Partner,20220101
+2,Company_2,E-commerce,Egypt,Mid-Market,Paid Ads,20220401
+3,Company_3,HealthTech,Egypt,SMB,Partner,20230901
+4,Company_4,EdTech,USA,SMB,Referral,20231201
+5,Company_5,HealthTech,USA,SMB,Referral,20230801
+6,Company_6,EdTech,UK,Mid-Market,Referral,20230601
+7,Company_7,EdTech,UAE,SMB,Partner,20250301
+8,Company_8,Logistics,USA,Enterprise,Organic,20240501
+9,Company_9,HealthTech,Egypt,SMB,Referral,20240801
+10,Company_10,HealthTech,UK,SMB,Referral,20231101
+11,Company_11,Logistics,UK,Mid-Market,Outbound Sales,20221201
+12,Company_12,HealthTech,USA,SMB,Referral,20250401
+13,Company_13,FinTech,Egypt,SMB,Referral,20240801
+14,Company_14,EdTech,Egypt,Mid-Market,Partner,20230601
+15,Company_15,EdTech,Germany,Mid-Market,Outbound Sales,20230201
+16,Company_16,Logistics,USA,SMB,Referral,20230401
+17,Company_17,Logistics,UK,Enterprise,Outbound Sales,20220601
+18,Company_18,HealthTech,UK,SMB,Partner,20230301
+19,Company_19,EdTech,UAE,SMB,Partner,20241101
+20,Company_20,EdTech,Egypt,Enterprise,Partner,20250801
+21,Company_21,HealthTech,UAE,SMB,Organic,20231201
+22,Company_22,HealthTech,UK,Mid-Market,Referral,20230501
+23,Company_23,EdTech,UK,SMB,Partner,20231101
+24,Company_24,HealthTech,USA,Mid-Market,Paid Ads,20220801
+25,Company_25,Logistics,Egypt,Mid-Market,Referral,20250201
+26,Company_26,Logistics,Egypt,Enterprise,Referral,20220601
+27,Company_27,Logistics,USA,Mid-Market,Paid Ads,20220901
+28,Company_28,EdTech,Germany,SMB,Partner,20240901
+29,Company_29,Logistics,Germany,SMB,Partner,20250201
+30,Company_30,E-commerce,Germany,SMB,Outbound Sales,20250801
+31,Company_31,FinTech,USA,Mid-Market,Outbound Sales,20231201
+32,Company_32,EdTech,UK,Mid-Market,Outbound Sales,20230101
+33,Company_33,FinTech,UK,Mid-Market,Outbound Sales,20220401
+34,Company_34,FinTech,Egypt,SMB,Paid Ads,20230701
+35,Company_35,FinTech,UAE,Mid-Market,Paid Ads,20220601
+36,Company_36,EdTech,USA,Mid-Market,Organic,20231201
+37,Company_37,FinTech,Germany,SMB,Partner,20220101
+38,Company_38,EdTech,Germany,SMB,Paid Ads,20220401
+39,Company_39,Logistics,Germany,SMB,Paid Ads,20250201
+40,Company_40,E-commerce,USA,SMB,Referral,20221001
+41,Company_41,E-commerce,USA,Enterprise,Partner,20240201
+42,Company_42,Logistics,USA,Mid-Market,Paid Ads,20220801
+43,Company_43,EdTech,Egypt,Mid-Market,Partner,20220801
+44,Company_44,FinTech,UAE,Mid-Market,Partner,20240501
+45,Company_45,FinTech,USA,SMB,Referral,20240401
+46,Company_46,FinTech,USA,Enterprise,Outbound Sales,20240301
+47,Company_47,E-commerce,UAE,SMB,Organic,20221201
+48,Company_48,FinTech,USA,SMB,Organic,20230901
+49,Company_49,Logistics,UK,Enterprise,Referral,20241101
+50,Company_50,HealthTech,UAE,SMB,Partner,20240401
+51,Company_51,E-commerce,UAE,SMB,Outbound Sales,20250501
+52,Company_52,HealthTech,Germany,SMB,Partner,20220301
+53,Company_53,Logistics,UK,SMB,Paid Ads,20221101
+54,Company_54,E-commerce,Germany,Enterprise,Partner,20240401
+55,Company_55,EdTech,UK,SMB,Organic,20220101
+56,Company_56,HealthTech,UK,Mid-Market,Organic,20230501
+57,Company_57,Logistics,Germany,Mid-Market,Referral,20250201
+58,Company_58,EdTech,Germany,SMB,Outbound Sales,20250401
+59,Company_59,E-commerce,Egypt,Mid-Market,Referral,20250201
+60,Company_60,E-commerce,Egypt,Mid-Market,Referral,20240701
+61,Company_61,E-commerce,Germany,SMB,Paid Ads,20250501
+62,Company_62,HealthTech,USA,SMB,Outbound Sales,20240101
+63,Company_63,HealthTech,UAE,SMB,Partner,20220901
+64,Company_64,HealthTech,UK,SMB,Referral,20240501
+65,Company_65,E-commerce,UAE,SMB,Referral,20240801
+66,Company_66,FinTech,Germany,Mid-Market,Organic,20220801
+67,Company_67,HealthTech,USA,SMB,Outbound Sales,20221101
+68,Company_68,EdTech,Egypt,SMB,Paid Ads,20230201
+69,Company_69,EdTech,USA,SMB,Paid Ads,20241201
+70,Company_70,Logistics,USA,SMB,Paid Ads,20231001
+71,Company_71,EdTech,UK,SMB,Outbound Sales,20250701
+72,Company_72,EdTech,Germany,SMB,Outbound Sales,20230201
+73,Company_73,FinTech,Germany,SMB,Referral,20250201
+74,Company_74,HealthTech,USA,Mid-Market,Outbound Sales,20240301
+75,Company_75,Logistics,UK,SMB,Paid Ads,20240501
+76,Company_76,Logistics,UAE,SMB,Partner,20230601
+77,Company_77,EdTech,Germany,SMB,Referral,20241201
+78,Company_78,EdTech,USA,Mid-Market,Partner,20240501
+79,Company_79,E-commerce,Germany,SMB,Referral,20230101
+80,Company_80,FinTech,UK,SMB,Outbound Sales,20220501
+81,Company_81,E-commerce,Egypt,Mid-Market,Paid Ads,20250201
+82,Company_82,HealthTech,USA,SMB,Organic,20221201
+83,Company_83,HealthTech,UK,SMB,Partner,20251101
+84,Company_84,Logistics,USA,SMB,Outbound Sales,20220501
+85,Company_85,HealthTech,UAE,Mid-Market,Organic,20251201
+86,Company_86,FinTech,USA,Mid-Market,Outbound Sales,20251101
+87,Company_87,E-commerce,Egypt,SMB,Partner,20250601
+88,Company_88,FinTech,USA,SMB,Referral,20221201
+89,Company_89,HealthTech,Egypt,SMB,Partner,20240301
+90,Company_90,FinTech,UAE,SMB,Partner,20221101
+91,Company_91,Logistics,UK,SMB,Referral,20220801
+92,Company_92,HealthTech,Egypt,SMB,Referral,20230501
+93,Company_93,E-commerce,UAE,Enterprise,Organic,20221101
+94,Company_94,HealthTech,USA,SMB,Referral,20240401
+95,Company_95,E-commerce,UK,Enterprise,Organic,20230201
+96,Company_96,Logistics,UK,SMB,Organic,20250801
+97,Company_97,HealthTech,Egypt,SMB,Partner,20230601
+98,Company_98,E-commerce,Germany,SMB,Referral,20231101
+99,Company_99,EdTech,UAE,Enterprise,Outbound Sales,20220801
+100,Company_100,Logistics,Egypt,Enterprise,Referral,20230601
+101,Company_101,Logistics,UK,SMB,Outbound Sales,20230101
+102,Company_102,FinTech,UAE,SMB,Partner,20240701
+103,Company_103,EdTech,Germany,SMB,Paid Ads,20231101
+104,Company_104,FinTech,Egypt,Mid-Market,Outbound Sales,20240301
+105,Company_105,FinTech,Germany,Enterprise,Outbound Sales,20230301
+106,Company_106,HealthTech,Egypt,SMB,Organic,20230701
+107,Company_107,HealthTech,UK,Mid-Market,Partner,20231001
+108,Company_108,EdTech,UK,SMB,Partner,20251001
+109,Company_109,Logistics,Germany,SMB,Outbound Sales,20230501
+110,Company_110,HealthTech,UK,SMB,Outbound Sales,20240401
+111,Company_111,FinTech,UK,SMB,Organic,20241201
+112,Company_112,EdTech,Egypt,SMB,Partner,20240201
+113,Company_113,Logistics,USA,Enterprise,Outbound Sales,20250701
+114,Company_114,Logistics,UK,SMB,Outbound Sales,20230701
+115,Company_115,EdTech,USA,Mid-Market,Referral,20240901
+116,Company_116,FinTech,UK,Mid-Market,Partner,20220901
+117,Company_117,Logistics,Egypt,Mid-Market,Organic,20250101
+118,Company_118,E-commerce,UK,SMB,Paid Ads,20240801
+119,Company_119,E-commerce,UAE,SMB,Partner,20230701
+120,Company_120,Logistics,Egypt,SMB,Paid Ads,20220601
+121,Company_121,E-commerce,Germany,SMB,Organic,20231201
+122,Company_122,HealthTech,UK,Enterprise,Partner,20230801
+123,Company_123,HealthTech,Germany,SMB,Outbound Sales,20250701
+124,Company_124,FinTech,Germany,Mid-Market,Organic,20220701
+125,Company_125,Logistics,UAE,SMB,Paid Ads,20250301
+126,Company_126,E-commerce,UAE,SMB,Referral,20220601
+127,Company_127,HealthTech,Germany,SMB,Paid Ads,20240501
+128,Company_128,HealthTech,UK,Mid-Market,Outbound Sales,20250601
+129,Company_129,HealthTech,UAE,SMB,Partner,20230301
+130,Company_130,FinTech,UK,SMB,Outbound Sales,20220401
+131,Company_131,Logistics,UK,SMB,Referral,20230801
+132,Company_132,EdTech,USA,SMB,Paid Ads,20221201
+133,Company_133,EdTech,Egypt,SMB,Organic,20230401
+134,Company_134,EdTech,Germany,SMB,Referral,20230601
+135,Company_135,EdTech,UK,Mid-Market,Referral,20221201
+136,Company_136,HealthTech,UK,SMB,Outbound Sales,20251001
+137,Company_137,Logistics,USA,Enterprise,Outbound Sales,20241001
+138,Company_138,E-commerce,UAE,SMB,Partner,20240201
+139,Company_139,HealthTech,Germany,Mid-Market,Partner,20250501
+140,Company_140,Logistics,UK,Mid-Market,Outbound Sales,20251001
+141,Company_141,EdTech,UAE,Mid-Market,Partner,20250501
+142,Company_142,FinTech,UK,SMB,Partner,20220901
+143,Company_143,E-commerce,Germany,Mid-Market,Paid Ads,20220401
+144,Company_144,HealthTech,USA,Mid-Market,Paid Ads,20250201
+145,Company_145,FinTech,UK,SMB,Outbound Sales,20241101
+146,Company_146,EdTech,Egypt,SMB,Referral,20221101
+147,Company_147,Logistics,Germany,Mid-Market,Partner,20230601
+148,Company_148,HealthTech,Egypt,SMB,Paid Ads,20230501
+149,Company_149,HealthTech,Egypt,Enterprise,Outbound Sales,20230201
+150,Company_150,E-commerce,Egypt,Enterprise,Partner,20220101
+151,Company_151,E-commerce,Germany,Mid-Market,Outbound Sales,20221001
+152,Company_152,EdTech,UK,SMB,Partner,20220501
+153,Company_153,EdTech,USA,Mid-Market,Referral,20220801
+154,Company_154,E-commerce,UAE,Mid-Market,Outbound Sales,20251001
+155,Company_155,EdTech,UAE,SMB,Outbound Sales,20220401
+156,Company_156,HealthTech,USA,SMB,Partner,20221201
+157,Company_157,E-commerce,USA,Mid-Market,Paid Ads,20231201
+158,Company_158,E-commerce,UAE,SMB,Outbound Sales,20220701
+159,Company_159,Logistics,USA,SMB,Referral,20220101
+160,Company_160,Logistics,Germany,SMB,Partner,20251101
+161,Company_161,EdTech,Egypt,SMB,Organic,20230701
+162,Company_162,EdTech,UAE,SMB,Referral,20240201
+163,Company_163,FinTech,USA,SMB,Partner,20240801
+164,Company_164,FinTech,USA,Mid-Market,Referral,20230801
+165,Company_165,HealthTech,Egypt,SMB,Outbound Sales,20230901
+166,Company_166,HealthTech,UK,Mid-Market,Organic,20251001
+167,Company_167,FinTech,UAE,Mid-Market,Paid Ads,20221201
+168,Company_168,E-commerce,UAE,SMB,Partner,20220701
+169,Company_169,EdTech,Egypt,SMB,Paid Ads,20250701
+170,Company_170,FinTech,UAE,SMB,Organic,20221001
+171,Company_171,HealthTech,USA,Mid-Market,Organic,20230101
+172,Company_172,HealthTech,UAE,SMB,Referral,20251001
+173,Company_173,Logistics,UAE,SMB,Paid Ads,20240301
+174,Company_174,FinTech,Germany,SMB,Partner,20230901
+175,Company_175,FinTech,UK,SMB,Partner,20231201
+176,Company_176,Logistics,Egypt,SMB,Referral,20230101
+177,Company_177,FinTech,Egypt,Mid-Market,Organic,20230201
+178,Company_178,FinTech,Germany,Mid-Market,Referral,20251101
+179,Company_179,E-commerce,UAE,SMB,Paid Ads,20251101
+180,Company_180,Logistics,Egypt,Enterprise,Organic,20221001
+181,Company_181,EdTech,USA,SMB,Referral,20221201
+182,Company_182,HealthTech,UK,Enterprise,Outbound Sales,20240901
+183,Company_183,Logistics,Germany,Mid-Market,Partner,20230501
+184,Company_184,FinTech,UAE,SMB,Referral,20220401
+185,Company_185,Logistics,UK,Mid-Market,Partner,20241101
+186,Company_186,EdTech,Germany,Mid-Market,Paid Ads,20251001
+187,Company_187,E-commerce,UK,SMB,Referral,20250501
+188,Company_188,Logistics,UAE,Mid-Market,Outbound Sales,20240901
+189,Company_189,HealthTech,Egypt,SMB,Organic,20220201
+190,Company_190,FinTech,Germany,Mid-Market,Partner,20230101
+191,Company_191,HealthTech,UAE,Enterprise,Outbound Sales,20250101
+192,Company_192,FinTech,UAE,Mid-Market,Referral,20220501
+193,Company_193,FinTech,Germany,SMB,Referral,20250201
+194,Company_194,HealthTech,UK,SMB,Organic,20220701
+195,Company_195,EdTech,UAE,SMB,Referral,20230601
+196,Company_196,HealthTech,Egypt,Enterprise,Organic,20231001
+197,Company_197,HealthTech,Germany,SMB,Referral,20231101
+198,Company_198,Logistics,UK,SMB,Partner,20240401
+199,Company_199,FinTech,USA,SMB,Partner,20231201
+200,Company_200,FinTech,Egypt,SMB,Paid Ads,20230701
+201,Company_201,Logistics,Germany,Mid-Market,Outbound Sales,20231001
+202,Company_202,HealthTech,UAE,SMB,Partner,20230901
+203,Company_203,EdTech,USA,Mid-Market,Referral,20240101
+204,Company_204,EdTech,USA,Mid-Market,Outbound Sales,20220401
+205,Company_205,EdTech,USA,Mid-Market,Paid Ads,20240701
+206,Company_206,EdTech,USA,SMB,Partner,20220201
+207,Company_207,E-commerce,USA,SMB,Partner,20230201
+208,Company_208,HealthTech,Germany,SMB,Outbound Sales,20230101
+209,Company_209,Logistics,Egypt,SMB,Referral,20250201
+210,Company_210,Logistics,Egypt,Mid-Market,Paid Ads,20250801
+211,Company_211,E-commerce,UAE,Mid-Market,Outbound Sales,20220301
+212,Company_212,EdTech,Egypt,SMB,Outbound Sales,20250101
+213,Company_213,HealthTech,Germany,Mid-Market,Organic,20221101
+214,Company_214,EdTech,Egypt,Enterprise,Paid Ads,20230601
+215,Company_215,HealthTech,USA,SMB,Partner,20220401
+216,Company_216,E-commerce,UK,Mid-Market,Partner,20240501
+217,Company_217,HealthTech,UK,SMB,Outbound Sales,20221001
+218,Company_218,EdTech,UAE,Enterprise,Organic,20220701
+219,Company_219,HealthTech,UAE,Mid-Market,Paid Ads,20230801
+220,Company_220,FinTech,Egypt,Mid-Market,Organic,20230501
+221,Company_221,Logistics,UK,Mid-Market,Partner,20240601
+222,Company_222,EdTech,USA,SMB,Referral,20221201
+223,Company_223,FinTech,Germany,SMB,Organic,20221101
+224,Company_224,FinTech,UK,SMB,Outbound Sales,20231001
+225,Company_225,E-commerce,Egypt,Mid-Market,Paid Ads,20230701
+226,Company_226,Logistics,UAE,SMB,Paid Ads,20250901
+227,Company_227,E-commerce,Germany,Mid-Market,Organic,20230401
+228,Company_228,FinTech,UK,SMB,Organic,20240501
+229,Company_229,FinTech,Germany,SMB,Partner,20230401
+230,Company_230,FinTech,UK,SMB,Partner,20240901
+231,Company_231,EdTech,UAE,Mid-Market,Partner,20240901
+232,Company_232,HealthTech,UK,Mid-Market,Paid Ads,20220101
+233,Company_233,FinTech,USA,Mid-Market,Organic,20251201
+234,Company_234,Logistics,UAE,SMB,Outbound Sales,20230401
+235,Company_235,E-commerce,Germany,Enterprise,Organic,20230501
+236,Company_236,EdTech,UAE,SMB,Referral,20240801
+237,Company_237,Logistics,USA,Enterprise,Paid Ads,20230901
+238,Company_238,Logistics,UK,SMB,Paid Ads,20230901
+239,Company_239,FinTech,USA,SMB,Referral,20250301
+240,Company_240,HealthTech,Germany,SMB,Referral,20250401
+241,Company_241,E-commerce,USA,Mid-Market,Partner,20220601
+242,Company_242,HealthTech,UAE,SMB,Referral,20241101
+243,Company_243,FinTech,UK,SMB,Referral,20230201
+244,Company_244,EdTech,Egypt,SMB,Referral,20241101
+245,Company_245,Logistics,UK,SMB,Paid Ads,20240101
+246,Company_246,E-commerce,Egypt,SMB,Paid Ads,20241001
+247,Company_247,FinTech,Egypt,Enterprise,Organic,20250501
+248,Company_248,E-commerce,Germany,SMB,Referral,20220801
+249,Company_249,FinTech,Germany,Enterprise,Partner,20220701
+250,Company_250,EdTech,Egypt,SMB,Organic,20251001

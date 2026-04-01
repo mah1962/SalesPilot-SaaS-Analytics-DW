@@ -1,0 +1,5 @@
+PlanID,PlanName,BasePrice,UserFee,BillingCycle,TierLevel
+1,Starter,49,5,Monthly,1
+2,Growth,99,10,Monthly,2
+3,Pro,199,20,Monthly,3
+4,Enterprise,499,35,Annual,4

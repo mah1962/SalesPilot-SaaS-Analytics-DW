@@ -1,0 +1,5 @@
+Execution_Time,Target_Table,Status,Rows_Loaded,Remarks
+2026-03-26 00:47:49,DimCompany,Success,250,Verified from Database
+2026-03-26 00:47:49,DimDate,Success,60,Verified from Database
+2026-03-26 00:47:49,DimPlan,Success,4,Verified from Database
+2026-03-26 00:47:49,FactSubscriptions,Success,5046,Verified from Database
